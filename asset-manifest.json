@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/counter-newton-app/static/css/main.073c9b0a.css",
+    "main.js": "/counter-newton-app/static/js/main.3bdcf705.js",
+    "static/js/787.bb621d7c.chunk.js": "/counter-newton-app/static/js/787.bb621d7c.chunk.js",
+    "index.html": "/counter-newton-app/index.html",
+    "main.073c9b0a.css.map": "/counter-newton-app/static/css/main.073c9b0a.css.map",
+    "main.3bdcf705.js.map": "/counter-newton-app/static/js/main.3bdcf705.js.map",
+    "787.bb621d7c.chunk.js.map": "/counter-newton-app/static/js/787.bb621d7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3bdcf705.js"
+  ]
+}
